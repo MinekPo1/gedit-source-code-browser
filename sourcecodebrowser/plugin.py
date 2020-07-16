@@ -482,3 +482,4 @@ class SourceCodeBrowserPlugin(GObject.Object, Gedit.WindowActivatable, PeasGtk.C
             
         
         
+__all__ = ['SourseTree','LOG_LEVEL','SETTINGS_SCHEMA','DATA_DIR','ICON_DIR','Config','SourceCodeBrowserPlugin']
